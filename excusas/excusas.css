@@ -1,16 +1,15 @@
 body{
-    background-color: darksalmon;
+    background-image: url("https://images.unsplash.com/photo-1516641051054-9df6a1aad654?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80");
+    background-size: cover;
 }
-h1{
-    text-align: center;
-    font-size:xx-large;
+/* h1{
+    font-size: large;
     color: deeppink;
-    margin-top: 50px;
-
+    margin-top: 9px;
 }
 #excuse {
-    font-size: 40px;
+    font-size: large;
     text-align: center;
     margin-top: 50px;
-    color: wheat;
-  }
+    color: rgb(182, 18, 81);
+  } */
